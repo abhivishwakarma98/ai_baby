@@ -9,7 +9,7 @@
 
 <body >
    <h1 style="color: darksalmon;"> Baby_Ai<h1>
-<h2 style="color: darkorange;">Virtual Artifical Asisitance like Hey,google,tec</h2>
+<h2 style="color: darkorange;">Virtual Artifical Asisitance like Hey google,tec</h2>
 <p style="color: rgba(255, 166, 0, 0.938);">
     First off all we need to install all module we need install 
     all required module should be install for working of our ai baby 
